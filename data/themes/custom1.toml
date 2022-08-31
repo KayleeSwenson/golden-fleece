@@ -5,22 +5,22 @@ name = "custom1"
 light = true
 
 # Primary
-primary = "#0B2161"
+primary = "#e3735e"
 
 # Menu
-menu_primary = "#E0ECF8"
-menu_text = "#0B2161"
-menu_text_active = "#045FB4"
-menu_title = "#0B2161"
+menu_primary = "#f5deb3"
+menu_text = "#d98880"
+menu_text_active = "#e6b0aa"
+menu_title = "#d98880"
 
 # Home sections
-home_section_odd = "#EFF5FB"
-home_section_even = "#E0ECF8"
+home_section_odd = "#f5deb3"
+home_section_even = "#f2d2bd"
 
 # links
-link = "#2980B9"
-link_hover = "#87bfe4"
+link = "#d98880"
+link_hover = "#e6b0aa"
 
 [dark]
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  link = "#d98880"
+  link_hover = "#e6b0aa"
