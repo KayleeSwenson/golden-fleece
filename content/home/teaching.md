@@ -19,10 +19,13 @@ weight = 57
 +++
 <h2>University of Missouri</h2>
 
-_[Harry S Truman School of Government & Public Affairs](https://politicalscience.missouri.edu)_
+_Instructor_
++ The Judicial Process, Fall 2022
 
-+ Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Fall 2021
-+ Introduction to Political Research, POLSC 3000 - Instructor _(lab)_, Spring 2021
-+ State Government, POLSC 2100 - Instructor _(lab)_, Fall 2020
-+ Strategy and Warfare, POLSC 4412 - Teaching Assistant, Spring 2020
-+ American National Government, POLSC 1100 - Teaching Assistant, Fall 2019
+_Teaching Assistant_
++ The Judicial Process, William Horner, Spring 2022
++ American Constitutional Democracy, Jennifer Selin, Fall 2021 
++ Politics and Hollywood, William Horner, Spring 2021
++ Political Parties and Election Campaigns, James Endersby, Fall 2020 
++ Constitutional Rights, Justin Dyer, Spring 2020
++ The American Constitution, Justin Dyer, Fall 2019
