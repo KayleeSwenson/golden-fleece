@@ -20,6 +20,7 @@ weight = 57
 <h2>University of Missouri</h2>
 
 _Instructor_
++ American Government Labs (2), Spring 2023
 + The Judicial Process, Fall 2022
 
 _Teaching Assistant_
