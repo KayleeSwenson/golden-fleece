@@ -20,7 +20,7 @@ weight = 90
 <h2>University of Missouri</h2>
 
 
-+Coordinating Assistant, APSA Peer-to-Peer Pedagogical Conference (Columbia, MO), August 2022
-+President, Graduate Association of Political Scientists (University of Missouri), 2021-2022
-+Secretary, Graduate Association of Political Scientists (University of Missouri), 2020-2021
-+Archival Research on behalf of D. R. Kiewiet (State Historical Society of Missouri), September 2020
++ Coordinating Assistant, APSA Peer-to-Peer Pedagogical Conference (Columbia, MO), August 2022
++ President, Graduate Association of Political Scientists (University of Missouri), 2021-2022
++ Secretary, Graduate Association of Political Scientists (University of Missouri), 2020-2021
++ Archival Research on behalf of D. R. Kiewiet (State Historical Society of Missouri), September 2020
