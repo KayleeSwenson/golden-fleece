@@ -14,12 +14,12 @@ organizations:
   # url: https://www.missouri.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests revolve around accountability, bureaucracy, and the private space industry.
+bio: My research interests revolve around public opinion, marginalized groups in the United States, and the public space industry.
 
 # Interests to show in About widget
 interests:
 - Private and Public Space Industries
-- Accountability
+- Marginalized Groups in the US
 - Bureaucracy
 - American Public Opinion
 
@@ -71,8 +71,8 @@ social:
 highlight_name: false
 ---
 
-I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. My research interests center around American public opinion, NASA and the space industry, public-private partnerships, accountability, administrative politics, bureaucracy, and qualitative methods. I also have an interest in representation and diversity within the space industry.
+I am a political science PhD candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. I am a proud member of [Comanche Nation.](https://comanchenation.com/) My research interests center around American public opinion, NASA and the space industry, bureaucracy, marginalized groups in the United States, and qualitative methods. I also have an interest in representation and diversity within the space industry.
 
-My current plan for my dissertation centers around perceptions of accountability. Focusing on the public-private partnerships between the National Aeronautics and Space Administration (NASA), and the private space industry (such as SpaceX and Blue Origin), my dissertation will analyze this relationship from three different perspectives: the opinions of the American public, government officials, and the private space industry.
+My dissertation currently centers around the relationship between NASA and the public, with an emphasis on the agency's deliberate engagement of public opinion. 
 
-You can download my Curriculum Vitae {{< staticref "Swenson_CV.pdf" "newtab" >}}here{{< /staticref >}}.
+You can download my resume {{< staticref "Swenson_CV.pdf" "newtab" >}}here{{< /staticref >}}.
