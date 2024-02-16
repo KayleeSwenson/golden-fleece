@@ -24,6 +24,8 @@ _Instructor_
 + The Judicial Process, Fall 2022
 
 _Teaching Assistant_
++ Human Resources Management, Joseph Martin, Spring 2024
++ Law, Policy, and Regulation, Joseph Martin, Fall 2023
 + The Judicial Process, William Horner, Spring 2022
 + American Constitutional Democracy, Jennifer Selin, Fall 2021 
 + Politics and Hollywood, William Horner, Spring 2021
