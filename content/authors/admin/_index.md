@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Political Science
+  - course: MA in Political Science
     institution: University of Missouri
-    year: 2024 (expected)
+    year: 2024
   - course: MA in American Studies
     institution: Northeastern State University, Tahlequah, OK
     year: 2018
