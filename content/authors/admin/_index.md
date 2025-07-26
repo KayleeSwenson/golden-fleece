@@ -74,8 +74,9 @@ social:
 highlight_name: false
 
 ---
-I have recently recieved my Master of Arts degree in political science, from the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. I am a proud member of [Comanche Nation.](https://comanchenation.com/) My research interests center around American public opinion, NASA and the space industry, bureaucracy, marginalized groups in the United States, and qualitative methods. I also have an interest in representation and diversity within the space industry.
+I am a political science Ph.D. candidate at the [Harry S Truman School of Government & Public Affairs](https://truman.missouri.edu) at the University of Missouri. I am a proud member of [Comanche Nation.](https://comanchenation.com/) My research interests center around American public opinion, NASA and the space industry, bureaucracy, marginalized groups in the United States, and qualitative methods. I also have an interest in representation and diversity within the space industry.
 
+My dissertation currently centers around the relationship between NASA and the public, with an emphasis on the agency’s deliberate engagement of public opinion.
 
 You can download my resume {{< staticref "Multi-page Resume 2024.pdf" "newtab" >}}here{{< /staticref >}}.
 
