@@ -28,7 +28,7 @@ education:
   courses:
   - course: Ph.D. in Political Science
     institution: University of Missouri
-    year: 2025 (expected)
+    year: 2025 [expected]
   - course: MA in Political Science
     institution: University of Missouri
     year: 2024
